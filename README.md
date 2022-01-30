@@ -27,5 +27,6 @@ Il y a le code pour **Python** et **Matlab**
 **Description**: Les caractéristiques qui affectent la qualité du béton sont cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate.
 
 
+## Warning
 
-**NB: J'ai utilisé Google Colab. Du coup, pour lire le fichier du jeu de donnée, vous devez changé le path.**
+**J'ai utilisé Google Colab. Du coup, pour lire le fichier du jeu de donnée, vous devez changé le path.**
