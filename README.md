@@ -25,3 +25,7 @@ Il y a le code pour **Python** et **Matlab**
 **Dataset**: Concrete Compressive Strength (Résistance à la compression du béton)
 
 **Description**: Les caractéristiques qui affectent la qualité du béton sont cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate.
+
+
+
+**NB: J'ai utilisé Google Colab. Du coup, pour lire le fichier du jeu de donnée, vous devez changé le path.**
